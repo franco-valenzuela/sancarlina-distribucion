@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 8,
-  "apkUrl": "https://github.com/franco-valenzuela/sancarlina-distribucion/releases/download/v8/app-debug.apk",
-  "releaseNotes": "¡Identidad Visual Corregida!\n- Logo oficial de la app con alta resolución.\n- Fondo del icono transparente/crema según diseño.\n- Preparado para nuevas funcionalidades."
+  "latestVersionCode": 9,
+  "apkUrl": "https://github.com/franco-valenzuela/sancarlina-distribucion/releases/download/v9/app-debug.apk",
+  "releaseNotes": "¡Acceso para Invitados y Guía Rápida!\n- Ya no es obligatorio loguearse al inicio.\n- Nueva Guía Rápida interactiva al entrar.\n- Aviso de login solo para acciones exclusivas (WhatsApp/Puntos).\n- Corrección de la pantalla 'Offline'."
 }
