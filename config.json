@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 6,
-  "apkUrl": "https://github.com/franco-valenzuela/sancarlina-distribucion/releases/download/v6/app-debug.apk",
-  "releaseNotes": "¡Integración con Firebase lista!\n- Login (Vista 17) y Registro (Vista 25) funcionales.\n- Navegación protegida (requiere login).\n- Logout real integrado en Perfil."
+  "latestVersionCode": 7,
+  "apkUrl": "https://github.com/franco-valenzuela/sancarlina-distribucion/releases/download/v7/app-debug.apk",
+  "releaseNotes": "¡Identidad Visual y Bienvenida!\n- Nueva experiencia de Onboarding (4 pantallas).\n- Logo oficial de Sancarlina integrado.\n- Icono de la app actualizado.\n- Corrección de errores en la pantalla offline."
 }
