@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 5,
-  "apkUrl": "https://github.com/franco-valenzuela/sancarlina-distribucion/releases/download/v5/app-debug.apk",
-  "releaseNotes": "¡Vista 6 (Detalle de Producto) lista!\n- Navegación desde el Home al detalle.\n- Galería de imágenes y descripción.\n- Botón de contacto directo funcional."
+  "latestVersionCode": 6,
+  "apkUrl": "https://github.com/franco-valenzuela/sancarlina-distribucion/releases/download/v6/app-debug.apk",
+  "releaseNotes": "¡Integración con Firebase lista!\n- Login (Vista 17) y Registro (Vista 25) funcionales.\n- Navegación protegida (requiere login).\n- Logout real integrado en Perfil."
 }
