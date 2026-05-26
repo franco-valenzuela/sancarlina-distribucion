@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 21,
-  "apkUrl": "https://github.com/franco-valenzuela/sancarlina-distribucion/releases/download/v21/app-debug.apk",
-  "releaseNotes": "¡Sistema de Actualización Inteligente!\n- Nueva barra de progreso en vivo durante la descarga.\n- Notificaciones automáticas de nuevas versiones.\n- Bloqueo de navegación durante la instalación para mayor seguridad.\n- Mejoras de estabilidad en el sistema de red."
+  "latestVersionCode": 22,
+  "apkUrl": "https://github.com/franco-valenzuela/sancarlina-distribucion/releases/download/v22/app-debug.apk",
+  "releaseNotes": "¡Nueva Vista de Servicios y Sello de Origen!\n- Implementada la Vista 3 del catálogo.\n- Información detallada sobre el Sello de Origen Sancarlino.\n- Navegación optimizada y responsive en el menú inferior.\n- Mejoras de estabilidad en la descarga de actualizaciones."
 }
