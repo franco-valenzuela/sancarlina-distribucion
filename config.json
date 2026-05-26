@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 13,
-  "apkUrl": "https://github.com/franco-valenzuela/sancarlina-distribucion/releases/download/v13/app-debug.apk",
-  "releaseNotes": "Ajustes visuales finales en cabecera y navegación."
+  "latestVersionCode": 14,
+  "apkUrl": "https://github.com/franco-valenzuela/sancarlina-distribucion/releases/download/v14/app-debug.apk",
+  "releaseNotes": "¡Datos en Tiempo Real con Firebase!\n- Vista 7 (Listado de Categorías) terminada.\n- Conexión real con Firestore para productos y banners.\n- Navegación fluida entre Home y Categorías.\n- Correcciones visuales finales en cabecera."
 }
