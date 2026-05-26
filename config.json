@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 12,
-  "apkUrl": "https://github.com/franco-valenzuela/sancarlina-distribucion/releases/download/v12/app-debug.apk",
-  "releaseNotes": "Ajuste de navegación: palabra MAPA alineada y botón central perfectamente elevado (50/50)."
+  "latestVersionCode": 13,
+  "apkUrl": "https://github.com/franco-valenzuela/sancarlina-distribucion/releases/download/v13/app-debug.apk",
+  "releaseNotes": "Ajustes visuales finales en cabecera y navegación."
 }
