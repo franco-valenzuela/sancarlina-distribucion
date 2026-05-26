@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 11,
-  "apkUrl": "https://github.com/franco-valenzuela/sancarlina-distribucion/releases/download/v11/app-debug.apk",
-  "releaseNotes": "¡Versión Definitiva v11!\n- Barra de navegación inferior premium con botón elevado.\n- Panel de Filtros Avanzados en el Mapa.\n- Corrección de bordes y errores visuales.\n- Acceso para invitados y Guía Rápida."
+  "latestVersionCode": 12,
+  "apkUrl": "https://github.com/franco-valenzuela/sancarlina-distribucion/releases/download/v12/app-debug.apk",
+  "releaseNotes": "Ajuste de navegación: palabra MAPA alineada y botón central perfectamente elevado (50/50)."
 }
